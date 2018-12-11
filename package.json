@@ -1,0 +1,20 @@
+{
+  "name": "user-details",
+  "version": "1.0.0",
+  "description": "user can register and login and update his details",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik121937/user-details.git"
+  },
+  "author": "Vankara Karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik121937/user-details/issues"
+  },
+  "homepage": "https://github.com/karthik121937/user-details#readme"
+}
